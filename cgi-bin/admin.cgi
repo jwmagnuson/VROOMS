@@ -43,8 +43,8 @@ __version__ = '0.0.0'
 #=============================================================================
 # Module Constants
 #=============================================================================
-DB_CREDENTIALS = "dbname='faffoos_test' user='***' " + \
-                 "host='faffoos.com' password='***'"
+DB_CREDENTIALS = "dbname='*****' user='***' " + \
+                 "host='******' password='***'"
 
 INPUT_DATA = cgi.FieldStorage()
 

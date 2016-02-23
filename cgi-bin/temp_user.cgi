@@ -42,8 +42,8 @@ def main():
     @return True if the operation completed sucessfully, False otherwise
     """
 
-    DB_CREDENTIALS = "dbname='faffoos_test' user='***' " + \
-                     "host='faffoos.com' password='***'"
+    DB_CREDENTIALS = "dbname='*****' user='***' " + \
+                     "host='******' password='***'"
 
     fields = cgi.FieldStorage()
 
